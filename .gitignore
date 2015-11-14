@@ -1,0 +1,16 @@
+syntax: glob
+
+# Vim files
+*~
+*.swp
+*.swo
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
